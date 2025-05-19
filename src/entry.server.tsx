@@ -1,7 +1,6 @@
 // src/entry.server.tsx   (fixed)
 import type { EntryContext } from "@remix-run/node";
 import { PassThrough } from "stream";
-import React from "react";
 import { RemixServer } from "@remix-run/react";
 /**
  * Node exposes `react-dom/server` only as CommonJS, but an `import * as`
