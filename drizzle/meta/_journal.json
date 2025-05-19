@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1747538612702,
+      "tag": "0000_gifted_namor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1747539927701,
+      "tag": "0001_early_fat_cobra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1747543152010,
+      "tag": "0002_wandering_black_knight",
+      "breakpoints": true
+    }
+  ]
+}
